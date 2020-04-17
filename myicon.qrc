@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>icon/b3288eec4dcbefff459a4c096f4c2aec.png</file>
+        <file>icon/file-folder-icon-png-5.png</file>
+        <file>icon/загружено.png</file>
+    </qresource>
+</RCC>
